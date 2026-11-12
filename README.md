@@ -8,7 +8,9 @@ I am a second-year BSc Natural Sciences student at University College London (UC
 
 My interests:
 
-* Applying mathematical and scientific methods to data, including in finance and trading
+* Data science in biological contexts, from genetics and ecology to disease modelling
+* Machine learning
+* Applying mathematical and scientific methods to data, in biology and beyond (including finance)
 * Statistical and mathematical modelling
 * Data cleaning, validation and quality checks
 
